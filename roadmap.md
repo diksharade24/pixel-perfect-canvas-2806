@@ -1,0 +1,4 @@
+- [x] Review the VeriChain brief and selected instrument-grid design.
+- [ ] Build the dashboard shell, navigation, and mock product/risk services.
+- [ ] Implement the working verification demo and key monitoring screens.
+- [ ] Verify preview rendering, demo outcomes, and build diagnostics.

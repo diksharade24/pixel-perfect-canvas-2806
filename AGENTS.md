@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+Keep mock product records and risk-scoring logic in dedicated shared modules so every interactive screen uses consistent demo data.
